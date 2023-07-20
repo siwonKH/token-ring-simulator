@@ -1,5 +1,5 @@
 # token-ring-simulator
-LAN toekn ring simulator
+LAN token ring simulator
 
 
 ## Download
